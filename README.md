@@ -25,8 +25,6 @@ They are written for the Bukkit Minecraft API but the examples are not specific 
 
 ## Structure
 
-<div class="grid cards" markdown>
-
 - [:material-book: Core](core/index.md)
 - [:fontawesome-solid-at: Annotated Commands](annotations/index.md)
 - [:material-language-kotlin: Kotlin Support](kotlin/index.md)
